@@ -11,7 +11,8 @@ global.emoji = "▸ ",
 global.prefa = ['','!','.','-']
 global.mess = {
     owner: 'You are not the owner of the bot',
-    premium: 'CANT USE BOT wa.me/94771323434',
+    premium: 'CANT USE BOT wa.me/94778479127
+	',
     wait: 'wait....',
     trues: 'Non',
     fuck: 'mmm..'
